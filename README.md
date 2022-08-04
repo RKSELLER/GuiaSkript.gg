@@ -28,7 +28,7 @@
 
 ## Funções
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000599148480966666/aim.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542293082124288/Aim.png"/></p>
 
   - `Prediction` Irá melhorar a precisão para alvos em movimento
   - `Target Players` Permite que o AimBot funcione em players
@@ -54,7 +54,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000808787575312444/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542298798968853/visuals_1.png"/></p>
 
   - `Only Alive` O Wallhack só funciona em jogadores vivos
   - `Box Style` Muda o visual da caixa que fica em volta do player
@@ -76,7 +76,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000813281059012608/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542299130302555/visuals_2.png"/></p>
 
   - `Marker` Cria uma circunferência nos veículos da categoria selecionada
   - `Healthbar` Cria uma barra de vida nos veículos da categoria selecionada
@@ -91,7 +91,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000812148471124099/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542299453276240/visuals_3.png"/></p>
 
   - `Marker` Cria uma circunferência nos locais selecionados
   - `Name` Mostra os nomes dos locais selecionados
@@ -102,7 +102,7 @@
   - 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000812148471124099/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542297821696100/visuals_4.png"/></p>
 
   - `Object ESP Enabled` Ativa o Wallhack de objetos
   - `Select Object Key` Seleciona o objeto mais próximo da mira ao pressionar a tecla definida
@@ -110,7 +110,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000799126356758608/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542293438644264/jogador_1.png"/></p>
 
   - `Anti Headshot` Faz com que o usuário tome diversos tiros na cabeça sem morrer 
   - `True Godmode` Faz com que o usuário fique imortal 
@@ -133,7 +133,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000801464203100241/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542293719646258/jogador_2.png"/></p>
 
   - `Give Weapon` Spawna a arma selecionada para o usuário 
   - `Add Attachment` Adiciona o componente selecionado na arma equipada
@@ -141,7 +141,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000802627640107128/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542294311063622/jogador_3.png"/></p>
 
   - `Infinite Ammo` Ativa munição infinita para todas as armas 
   - `Bottomless Clip` Faz com que o número de munições fique fixo (não diminui)
@@ -153,7 +153,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000804459028426903/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542294684340284/jogador_4.png"/></p>
 
   - `Teleport to Marker` Teleporta para o local selecionado (Ex: FBI Tower, Maze Bank, etc) 
   - `Teleport do Waypoint` Teleporta para o lugar marcado no mapa
@@ -168,7 +168,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000608835578372187/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542296416583742/veiculos_1.png"/></p>
 
   - `True Godmode` Faz com que o veículo fique indestrutível 
   - `Demi GodMode` Repara o veículo lentamente
@@ -190,7 +190,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000805994714116207/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542292733984869/veiculos_2.png"/></p>
 
   - `Warp Into Focused Vehicle` Teleporta para o veículo selecionado ao pressionar a tecla definida
   - `Physgun` Move o veículo selecionado para onde sua mira estiver
@@ -202,7 +202,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000807389282435183/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542298186580082/veiculos_3.png"/></p>
 
   - `Spawn Inside` Faz com que o usuário vá para dentro do veículo spawnado
   - `Max Out Performance` Tuna o veículo no máximo (Motor, Blindagem, Transmissão, Freio, Transmissão)
@@ -212,7 +212,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000807984374497331/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542298480189511/veiculos_4.png"/></p>
 
   - `Primary Color` Troca a cor primária do veículo
   - `Secondary Color` Troca a cor secundária do veículo
@@ -224,7 +224,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000602607884185600/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542295141527612/outros_1.png"/></p>
 
   - `Unload` Desinjeta o Cheat do Jogo
   - `CrossHair` Cria uma mira no centro da tela
@@ -233,7 +233,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000603625392984095/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542295615471747/outros_2.png"/></p>
 
   - `Create New` Cria uma nova configuração
   - `Delete` Deleta a configuração selecionada
@@ -245,7 +245,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000605092149477416/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/877258510893740143/1004542295942647818/outros_3.png"/></p>
 
   - `Add Closest Person as Friend` Adiciona a pessoa mais próxima à lista de pessoas que não serão afetadas pelo aimbot
   - `Add New Group` Cria um novo grupo onde é possível organizar todas as pessoas
